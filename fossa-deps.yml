@@ -9,8 +9,8 @@ vendored-dependencies:
     path: libslirp-4.3.1-1.module+el8.3.1+9803+64eb0fd6.x86_64.rpm
   - name: slirp4netns
     path: slirp4netns-1.1.8-1.module+el8.3.1+9857+68fb1526.x86_64.rpm
-  - name: Cython
-    path: Cython-0.19-5.el7.src.rpm
+#   - name: Cython
+#     path: Cython-0.19-5.el7.src.rpm
 
 # referenced-dependencies:
 #   - type: url
